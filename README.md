@@ -20,7 +20,7 @@ Make sure you have the following installed:
 ### Installation
 Clone the repository and install dependencies:
 ```sh
-git clone git@github.com:swalstab/advent_of_code_2024.git
+git clone git@github.com:stvaldes/advent_of_code_2024.git
 cd advent_of_code_2024
 npm install
 ```
